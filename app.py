@@ -1,5 +1,7 @@
 """Streamlit app: lexicon-based sentiment analysis by stakeholder and over time."""
 
+print(sc.__file__, hasattr(sc, "compile_stakeholder_patterns"))
+
 import io
 import os
 
