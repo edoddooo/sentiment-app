@@ -63,7 +63,7 @@ STAKEHOLDERS = {
     "Financial and business services": [
         "bank", "microfinance", "insurer", "insurance", "investor",
         "investment fund", "agribusiness", "lender", "financier",
-        "financial institution", "venture capital", "loan",
+        "financial institution", "venture capital", "loan", "credit"
     ],
     "Logistic and infrastructures": [
         "transport", "transporter", "trucking", "truck", "cold chain",
